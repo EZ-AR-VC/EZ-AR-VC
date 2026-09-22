@@ -1,4 +1,4 @@
-# EZ-Ar-VC: Robust Arabic Voice Anonymization with Generalization across Dialects and Code-Switching
+# EZ-AR-VC: Robust Arabic Voice Anonymization with Generalization across Dialects and Code-Switching
 
 [![Python](https://img.shields.io/badge/Python-3.10-brightgreen)](https://github.com/EZ-AR-VC/EZ-AR-VC)
 [![Demo](https://img.shields.io/badge/GitHub-Demo%20Page-orange.svg)](https://EZ-AR-VC.github.io/EZ-AR-VC-DEMO/)
